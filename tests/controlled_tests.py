@@ -1,5 +1,5 @@
 import unittest
-import affinityJenkins.compute_highest_affinity as compute_highest_affinity
+import jenkinsRepo.compute_highest_affinity as compute_highest_affinity
 
 
 class ControlledTests(unittest.TestCase):
